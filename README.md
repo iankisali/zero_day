@@ -1,3 +1,3 @@
 ## Vagrant
 
-Setting up my vagrant
+Uname command
