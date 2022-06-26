@@ -1,3 +1,3 @@
-#vagrant
+## Vagrant
 
 Setting up my vagrant
